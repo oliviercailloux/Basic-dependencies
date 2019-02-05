@@ -18,7 +18,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/oliviercailloux/basic-dependencies.git</connection>
 		<developerConnection>scm:git:ssh://github.com/oliviercailloux/basic-dependencies.git</developerConnection>
-		<url>https://github.com/oliviercailloux/basic-dependencies</url>
+		<url>https://github.com/oliviercailloux/Basic-dependencies</url>
 	</scm>
 	<developers>
 		<developer>
