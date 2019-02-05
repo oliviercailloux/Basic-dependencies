@@ -1,0 +1,7 @@
+= oliviercailloux basic dependencies
+
+image:https://travis-ci.com/oliviercailloux/basic-dependencies.svg?branch=master["Build Status", link="https://travis-ci.com/oliviercailloux/basic-dependencies"]
+//image:https://maven-badges.herokuapp.com/maven-central/io.github.oliviercailloux/basic-dependencies/badge.svg["Artifact on Maven Central", link="http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22io.github.oliviercailloux.basic-dependencies%22"]
+
+A simple POM with basic dependencies: https://www.slf4j.org/[SLF4J], https://github.com/google/guava[Guava], https://logback.qos.ch/[Logback] (test scope), https://junit.org/junit5/[JUnit 5] (test scope).
+
